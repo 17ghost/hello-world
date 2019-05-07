@@ -1,2 +1,2 @@
 # hello-world
-1step in GitHub.
+1step on GitHub.
